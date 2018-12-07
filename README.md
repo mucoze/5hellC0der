@@ -1,5 +1,5 @@
-# ArmEncodedReverseTCPShellcodeGenerator
-Arm Encoded Reverse TCP Shellcode Generator
+# ArmEncodedTCPReverseShellcodeGenerator
+Arm Encoded TCP Reverse Shellcode Generator
 
 Only 32 bit ARM
 Tested : Raspberry Pi v3
